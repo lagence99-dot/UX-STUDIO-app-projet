@@ -1,0 +1,2 @@
+[functions.daily-briefing]
+verify_jwt = false
